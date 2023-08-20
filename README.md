@@ -1,4 +1,17 @@
-### Hi there 👋
+![tal-bunner](https://github.com/talthiagolopes/talthiagolopes/assets/39767279/d82ab808-5c5d-430a-b3f9-af1e19f2678f)
+# Hi there!
+
+## About me
+
+🌱 I’m currently learning iOS + Swift 5  
+💬 Ask me about ...  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=talthiagolopes&show_icons=true&count_private=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talthiagolopes&layout=compact&theme=cobalt&langs_count=8" />
+</a>
 
 <!--
 **talthiagolopes/talthiagolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
