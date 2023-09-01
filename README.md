@@ -1,10 +1,17 @@
 ![tal-bunner](https://github.com/talthiagolopes/talthiagolopes/assets/39767279/d82ab808-5c5d-430a-b3f9-af1e19f2678f)
 # Hi there!
 
+I am happy to see you here. Please, enjoy as much as you can everything that I have been done here =)  
+Since 2023 I have decided change some habits, so I am "new" 👤 with github  
+
 ## About me
 
-🌱 I’m currently learning iOS + Swift 5  
-💬 Ask me about ...  
+📡 Software Developer at [Pyxis](https://pyxis.tech/en/). I am currently working with SAP Commerce Cloud and Frontend stuff  
+🎯 I was living as Digital Nomad in 2022/2023  
+🚸 I am currently learning <em>iOS + Swift 5</em>  
+📚 I am currently reading <em>Loard of the Flies</em>, recommended by [Gustavo Krüger](https://github.com/fkaizo)  
+💬 Ask me about anything that you would like to know, the question is free and welcome
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=talthiagolopes&show_icons=true&count_private=true&theme=cobalt" />
@@ -18,11 +25,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
