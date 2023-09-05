@@ -2,15 +2,15 @@
 # Hi there!
 
 I am happy to see you here. Please, enjoy as much as you can everything that I have been done here =)  
-Since 2023 I have decided change some habits, so I am "new" 👤 with github  
+Since 2023 I have changed some habits, so I am "new" with public GitHub 👤  
 
 ## About me
 
 📡 Software Developer at [Pyxis](https://pyxis.tech/en/). I am currently working with SAP Commerce Cloud and Frontend stuff  
-🎯 I was living as Digital Nomad in 2022/2023  
+🎯 I was living as Digital Nomad in 2022-2023. You can see more details on [Nomad List](https://nomadlist.com/@talthiagolopes)  
 🚸 I am currently learning <em>iOS + Swift 5</em>  
 📚 I am currently reading <em>Loard of the Flies</em>, recommended by [Gustavo Krüger](https://github.com/fkaizo)  
-💬 Ask me about anything that you would like to know, the question is free and welcome
+💬 Ask me about anything that you would like to know, the question is free and welcome always  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
