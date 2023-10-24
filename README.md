@@ -2,8 +2,8 @@
 ![tal-bunner](https://github.com/talthiagolopes/talthiagolopes/assets/39767279/d82ab808-5c5d-430a-b3f9-af1e19f2678f)
 # Hi there!
 
-I am happy to see you here. Please, enjoy as much as you can though everything that I have been done here =)  
-I have changed some habits, so I am "new" with public GitHub 👤  
+I am happy to see you here. Please, enjoy as much as you can through everything that I have been done here =)  
+Since the second semester of 2023, I have changed some habits, so I am "new" to using public GitHub 👤  
 
 ## About me
 
